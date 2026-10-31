@@ -12,6 +12,3 @@ Project to demonstrate my capabilities in 3D modeling
 | -                                                                                                                 | <img src="/src/centrifuge-1/results/OTC.4000.png" width="200"> | Measurements taken by hand <br>[Read more.](/src/centrifuge-1)            |
 | -                                                                                                                 | <img src="/src/centrifuge-2/results/OTC.5000.png" width="200"> | Measurements taken by hand <br>[Read more.](/src/centrifuge-2)            |
 | From my wife’s words                                                                                              | <img src="/src/kuchen-land/results/Product2.png" width="200">  | -       |
-
-
-
