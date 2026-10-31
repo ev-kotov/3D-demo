@@ -9,8 +9,9 @@ Project to demonstrate my capabilities in 3D modeling
 | <img src="/src/hub/hub_task.png" width="200">                                                                     | <img src="/src/hub/HUB.01.002.png" width="200">                | Measurements taken from the drawing. <br>[Read more.](/src/hub)           |
 | <img src="/src/dpos/20200410_102521.jpg" width="100"> <img src="/src/dpos/20200410_102603.jpg" width="100">       | <img src="/src/dpos/DPOS.png" width="200">                     | Measurements taken by hand. <br>[Read more.](/src/dpos)                   |
 | <img src="/src/table-tree/tasks/task_1.png" width="100"> <img src="/src/table-tree/tasks/task_2.png" width="100"> | <img src="/src/table-tree/results/derevo.png" width="200">     | Measurements taken from demo materials <br>[Read more.](/src/table-tree/) |
-| -                                                                                                            | <img src="/src/centrifuge-1/results/OTC.4000.png" width="200"> | Measurements taken by hand <br>[Read more.](/src/centrifuge-1)            |
-| -                                                                                                            | <img src="/src/centrifuge-2/results/OTC.5000.png" width="200"> | Measurements taken by hand <br>[Read more.](/src/centrifuge-2)            |
+| -                                                                                                                 | <img src="/src/centrifuge-1/results/OTC.4000.png" width="200"> | Measurements taken by hand <br>[Read more.](/src/centrifuge-1)            |
+| -                                                                                                                 | <img src="/src/centrifuge-2/results/OTC.5000.png" width="200"> | Measurements taken by hand <br>[Read more.](/src/centrifuge-2)            |
+| From my wife’s words                                                                                              | <img src="/src/kuchen-land/results/Product2.png" width="200">  | -       |
 
 
 
