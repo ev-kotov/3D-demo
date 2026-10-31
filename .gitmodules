@@ -1,0 +1,6 @@
+[submodule "vyborg-ctop"]
+	path = vyborg-ctop
+	url = git@github.com:ev-kotov/vyborg-ctop.git
+[submodule "gatchina-ctop"]
+	path = gatchina-ctop
+	url = https://github.com/ev-kotov/gatchina-ctop
