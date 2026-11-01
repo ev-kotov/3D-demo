@@ -1,6 +1,0 @@
-[submodule "vyborg-ctop"]
-	path = vyborg-ctop
-	url = https://github.com/ev-kotov/vyborg-ctop
-[submodule "gatchina-ctop"]
-	path = gatchina-ctop
-	url = https://github.com/ev-kotov/gatchina-ctop
